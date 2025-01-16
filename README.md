@@ -1,5 +1,7 @@
 # VGP236_Pachinko
  First assignment using Unity for my Programming for Games class.
+ 
+![VGP236_Pachinko_GIF](https://github.com/user-attachments/assets/ddd82cbd-c7c2-4741-9c2c-2923dcc66d58)
 
 # Space Pachinko Game
 
@@ -32,7 +34,7 @@ To play the Space Pachinko game locally, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/marklourenco/VGP236-Pachinko.git
+    git clone https://github.com/marklourenco/VGP236_Pachinko.git
     ```
 
 2. **Open in Unity**: Open the project folder in Unity (ensure you have Unity installed with the appropriate version for this project).

@@ -63,10 +63,6 @@ In this pachinko game, the player will shoot aliens from the top of the screen, 
 
 - **Sprites**: Various space-themed assets, including stars, planets, and background elements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Credits
 
 - **Game Design & Development**: [Mark](https://github.com/marklourenco)
